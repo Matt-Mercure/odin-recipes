@@ -1,0 +1,9 @@
+.BBQ-ribs-recipe-title, .BBQ-ribs-recipe-list, .recipe-title, .recipe-list {
+    color: brown;
+    text-align: center;
+}
+
+.recipe-list {
+    width: 150px;
+    margin: 0 auto;
+}
